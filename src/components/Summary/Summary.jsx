@@ -8,7 +8,7 @@ const Summary = () => {
           FREQUENTLY ASKED QUESTIONS
         </div>
         <div className="text-[18px] font-semibold">
-          Quick answers to questions you may have. Can't find what yor're
+          Quick answers to questions you may have. Can not find what yor are
           looking for?<br></br>
           Check out our full documentation
         </div>
@@ -22,7 +22,7 @@ const Summary = () => {
             <p className="border-t-2 border-secondaryText mt-3 pt-3 w-full font-semibold">
               No, not at all! Our platform is designed with user-friendliness in
               mind. You can easily navigate and set up your store without any
-              technical expertise. It's as simple as a few clicks to get
+              technical expertise. It is as simple as a few clicks to get
               started!
             </p>
           </details>
@@ -36,7 +36,7 @@ const Summary = () => {
             <p className="border-t-2 border-secondaryText mt-3 pt-3 w-full font-semibold">
               No, not at all! Our platform is designed with user-friendliness in
               mind. You can easily navigate and set up your store without any
-              technical expertise. It's as simple as a few clicks to get
+              technical expertise. Its as simple as a few clicks to get
               started!
             </p>
           </details>
@@ -50,7 +50,7 @@ const Summary = () => {
             <p className="border-t-2 border-secondaryText mt-3 pt-3 w-full font-semibold">
               No, not at all! Our platform is designed with user-friendliness in
               mind. You can easily navigate and set up your store without any
-              technical expertise. It's as simple as a few clicks to get
+              technical expertise. Its as simple as a few clicks to get
               started!
             </p>
           </details>
@@ -64,7 +64,7 @@ const Summary = () => {
             <p className="border-t-2 border-secondaryText mt-3 pt-3 w-full font-semibold">
               No, not at all! Our platform is designed with user-friendliness in
               mind. You can easily navigate and set up your store without any
-              technical expertise. It's as simple as a few clicks to get
+              technical expertise. Its as simple as a few clicks to get
               started!
             </p>
           </details>
@@ -78,7 +78,7 @@ const Summary = () => {
             <p className="border-t-2 border-secondaryText mt-3 pt-3 w-full font-semibold">
               No, not at all! Our platform is designed with user-friendliness in
               mind. You can easily navigate and set up your store without any
-              technical expertise. It's as simple as a few clicks to get
+              technical expertise. Its as simple as a few clicks to get
               started!
             </p>
           </details>
@@ -92,7 +92,7 @@ const Summary = () => {
             <p className="border-t-2 border-secondaryText mt-3 pt-3 w-full font-semibold">
               No, not at all! Our platform is designed with user-friendliness in
               mind. You can easily navigate and set up your store without any
-              technical expertise. It's as simple as a few clicks to get
+              technical expertise. Its as simple as a few clicks to get
               started!
             </p>
           </details>
@@ -106,7 +106,7 @@ const Summary = () => {
             <p className="border-t-2 border-secondaryText mt-3 pt-3 w-full font-semibold">
               No, not at all! Our platform is designed with user-friendliness in
               mind. You can easily navigate and set up your store without any
-              technical expertise. It's as simple as a few clicks to get
+              technical expertise. Its as simple as a few clicks to get
               started!
             </p>
           </details>
@@ -120,7 +120,7 @@ const Summary = () => {
             <p className="border-t-2 border-secondaryText mt-3 pt-3 w-full font-semibold">
               No, not at all! Our platform is designed with user-friendliness in
               mind. You can easily navigate and set up your store without any
-              technical expertise. It's as simple as a few clicks to get
+              technical expertise. Its as simple as a few clicks to get
               started!
             </p>
           </details>

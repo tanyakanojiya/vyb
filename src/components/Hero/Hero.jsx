@@ -33,8 +33,8 @@ const Hero = () => {
           </div>
         </h3>
         <p className="text-white text-h1 font-semibold">
-          "Unleash Your Influence: Sell <br></br> ltineraries,Build Your Brand,{" "}
-          <br></br>Create Merch, and Share <br></br> Content - All in One Hub."
+          Unleash Your Influence: Sell <br></br> ltineraries,Build Your Brand,
+          <br></br>Create Merch, and Share <br></br> Content - All in One Hub.
         </p>
         <div className="text-white py-8 flex gap-7 items-center">
           <button className="border-1 bg-primary text-primaryText px-4 py-3 rounded-2xl text-[20px]">

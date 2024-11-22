@@ -34,8 +34,8 @@ const Sticky = () => {
           <div className="bg-[#5ed46a] w-[850px] h-[370px] rotate-a flex space-around items-center gap-3 px-[60px] rounded-3xl sticky top-[260px] left-[350px]">
             <div className="px-[4rem]">
               <div className="text-h3 font-semibold leading-tight mb-6 ">
-                "Monetize your influencer status: Earn money adding real value
-                to your true followers!"
+                Monetize your influencer status: Earn money adding real value
+                to your true followers!
               </div>
               <div className=" text-[15px] leading-tight pr-6">
                 Let VYB the money now !! Its here and widthdraw it periodically.
